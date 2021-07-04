@@ -11,7 +11,7 @@ from ui_main1 import Ui_MainWindow
 
 def main():
     # #変数の定義
-    # videoPath: str = "D:\\GoogleDrive\\Colab_Notebooks\\movies\\20170828_190559_Tsubame.avi"
+    # videoPath: str = ""
     # playFps: int =  60#mm
     
     # ply=videoController(videoPath, playFps)
